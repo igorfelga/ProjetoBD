@@ -17,3 +17,4 @@ C:\UDK\BeerDefense-2013-07\UDKGame\Script\UTEditor.u
 C:\UDK\BeerDefense-2013-07\UDKGame\Script\UTGame.u
 C:\UDK\BeerDefense-2013-07\UDKGame\Script\UTGameContent.u
 C:\UDK\BeerDefense-2013-07\Development\Src\obj\Beer Defense V1.0.ucproj.UnrealScriptConfigurationLog.txt
+C:\UDK\BeerDefense-2013-07\UDKGame\Script\BeerDefense.u

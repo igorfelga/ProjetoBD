@@ -13,5 +13,6 @@ C:\UDK\BeerDefense-2013-07\UDKGame\Script\SubstanceAir.u
 C:\UDK\BeerDefense-2013-07\UDKGame\Script\SubstanceAirEd.u
 C:\UDK\BeerDefense-2013-07\UDKGame\Script\UDKBase.u
 C:\UDK\BeerDefense-2013-07\UDKGame\Script\UTEditor.u
+C:\UDK\BeerDefense-2013-07\UDKGame\Script\BeerDefense.u
 C:\UDK\BeerDefense-2013-07\UDKGame\Script\UTGame.u
 C:\UDK\BeerDefense-2013-07\UDKGame\Script\UTGameContent.u
